@@ -1,0 +1,28 @@
+_repo: Studies-of-American-Fungi.-Mushrooms-Edible-Poisonous-etc._26492
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Atkinson, George Francis
+    birthdate: 1854
+    deathdate: 1918
+    gutenberg_agent_id: '32045'
+    url: http://www.gutenberg.org/2009/agents/32045
+description: ''
+gutenberg_issued: '2008-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26492'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fungi -- United States'
+- !lcc 'QK'
+- !lcsh 'Mushrooms'
+- !lcsh 'Cooking (Mushrooms)'
+title: Studies of American Fungi. Mushrooms, Edible, Poisonous, etc.
+url: http://www.gutenberg.org/ebooks/26492
